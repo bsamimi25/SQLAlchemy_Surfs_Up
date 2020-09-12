@@ -4,7 +4,7 @@ SQLite,Python, and flask
 ## Overview
 The purpose of this project was to determine temperatures of the island of Oahu during June and December. We wanted to provide summary statistics to our investor so he can make a decision on his potential future shop. The weather will determine if his business survives or not since it is an ice cream and curf shp. 
 
-# Results
+## Results
 The June and December dates are from 2010-2017. 
 
 Summary Stats for June 
