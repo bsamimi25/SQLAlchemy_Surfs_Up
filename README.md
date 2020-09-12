@@ -11,7 +11,7 @@ Summary Stats for June
 
 <img width="191" alt="Screen Shot 2020-09-11 at 6 27 10 PM" src="https://user-images.githubusercontent.com/67808057/92984088-9019cd00-f45c-11ea-80a6-de97627a6693.png">
 
-Summry Stats for December 
+Summary Stats for December 
 
 <img width="174" alt="Screen Shot 2020-09-11 at 6 40 29 PM" src="https://user-images.githubusercontent.com/67808057/92984347-5e096a80-f45e-11ea-9d31-aadc6b10f404.png">
 
